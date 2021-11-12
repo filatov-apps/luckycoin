@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/luckycoin/static/css/main.a34fd30b.chunk.css",
-    "main.js": "/luckycoin/static/js/main.897b7d19.chunk.js",
-    "main.js.map": "/luckycoin/static/js/main.897b7d19.chunk.js.map",
+    "main.js": "/luckycoin/static/js/main.2408e9dd.chunk.js",
+    "main.js.map": "/luckycoin/static/js/main.2408e9dd.chunk.js.map",
     "runtime-main.js": "/luckycoin/static/js/runtime-main.1aae57a7.js",
     "runtime-main.js.map": "/luckycoin/static/js/runtime-main.1aae57a7.js.map",
     "static/css/2.cdee455b.chunk.css": "/luckycoin/static/css/2.cdee455b.chunk.css",
     "static/js/2.805f31e4.chunk.js": "/luckycoin/static/js/2.805f31e4.chunk.js",
     "static/js/2.805f31e4.chunk.js.map": "/luckycoin/static/js/2.805f31e4.chunk.js.map",
     "index.html": "/luckycoin/index.html",
-    "precache-manifest.7ad0db4691af8e429bd4518db121d80c.js": "/luckycoin/precache-manifest.7ad0db4691af8e429bd4518db121d80c.js",
+    "precache-manifest.6cf7bd4f4699a5d9f545f485ee0b9ab4.js": "/luckycoin/precache-manifest.6cf7bd4f4699a5d9f545f485ee0b9ab4.js",
     "service-worker.js": "/luckycoin/service-worker.js",
     "static/css/2.cdee455b.chunk.css.map": "/luckycoin/static/css/2.cdee455b.chunk.css.map",
     "static/css/main.a34fd30b.chunk.css.map": "/luckycoin/static/css/main.a34fd30b.chunk.css.map",
@@ -29,6 +29,6 @@
     "luckycoin/static/css/2.cdee455b.chunk.css",
     "luckycoin/static/js/2.805f31e4.chunk.js",
     "luckycoin/static/css/main.a34fd30b.chunk.css",
-    "luckycoin/static/js/main.897b7d19.chunk.js"
+    "luckycoin/static/js/main.2408e9dd.chunk.js"
   ]
 }

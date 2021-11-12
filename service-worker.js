@@ -16,7 +16,7 @@ importScripts(
 );
 
 importScripts(
-  "/luckycoin/precache-manifest.7ad0db4691af8e429bd4518db121d80c.js"
+  "/luckycoin/precache-manifest.6cf7bd4f4699a5d9f545f485ee0b9ab4.js"
 );
 
 self.addEventListener("message", (event) => {
