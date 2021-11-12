@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/luckycoin/static/css/main.a34fd30b.chunk.css",
-    "main.js": "/luckycoin/static/js/main.7e43495c.chunk.js",
-    "main.js.map": "/luckycoin/static/js/main.7e43495c.chunk.js.map",
+    "main.js": "/luckycoin/static/js/main.897b7d19.chunk.js",
+    "main.js.map": "/luckycoin/static/js/main.897b7d19.chunk.js.map",
     "runtime-main.js": "/luckycoin/static/js/runtime-main.1aae57a7.js",
     "runtime-main.js.map": "/luckycoin/static/js/runtime-main.1aae57a7.js.map",
     "static/css/2.cdee455b.chunk.css": "/luckycoin/static/css/2.cdee455b.chunk.css",
-    "static/js/2.d393a656.chunk.js": "/luckycoin/static/js/2.d393a656.chunk.js",
-    "static/js/2.d393a656.chunk.js.map": "/luckycoin/static/js/2.d393a656.chunk.js.map",
+    "static/js/2.805f31e4.chunk.js": "/luckycoin/static/js/2.805f31e4.chunk.js",
+    "static/js/2.805f31e4.chunk.js.map": "/luckycoin/static/js/2.805f31e4.chunk.js.map",
     "index.html": "/luckycoin/index.html",
-    "precache-manifest.d42a9bca09ef6044ada0f489703eee3b.js": "/luckycoin/precache-manifest.d42a9bca09ef6044ada0f489703eee3b.js",
+    "precache-manifest.7ad0db4691af8e429bd4518db121d80c.js": "/luckycoin/precache-manifest.7ad0db4691af8e429bd4518db121d80c.js",
     "service-worker.js": "/luckycoin/service-worker.js",
     "static/css/2.cdee455b.chunk.css.map": "/luckycoin/static/css/2.cdee455b.chunk.css.map",
     "static/css/main.a34fd30b.chunk.css.map": "/luckycoin/static/css/main.a34fd30b.chunk.css.map",
-    "static/js/2.d393a656.chunk.js.LICENSE.txt": "/luckycoin/static/js/2.d393a656.chunk.js.LICENSE.txt",
+    "static/js/2.805f31e4.chunk.js.LICENSE.txt": "/luckycoin/static/js/2.805f31e4.chunk.js.LICENSE.txt",
     "static/media/cat.jpg": "/luckycoin/static/media/cat.a76cd32d.jpg",
     "static/media/duck.jpg": "/luckycoin/static/media/duck.b9603e3a.jpg",
     "static/media/Home.css": "/luckycoin/static/media/fish.6aa28c41.png",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "luckycoin/static/js/runtime-main.1aae57a7.js",
     "luckycoin/static/css/2.cdee455b.chunk.css",
-    "luckycoin/static/js/2.d393a656.chunk.js",
+    "luckycoin/static/js/2.805f31e4.chunk.js",
     "luckycoin/static/css/main.a34fd30b.chunk.css",
-    "luckycoin/static/js/main.7e43495c.chunk.js"
+    "luckycoin/static/js/main.897b7d19.chunk.js"
   ]
 }
